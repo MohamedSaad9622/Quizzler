@@ -1,9 +1,3 @@
-//
-//  SceneDelegate.swift
-//  Quizzler
-//
-//  Created by MAC on 04/02/2022.
-//
 
 import UIKit
 
